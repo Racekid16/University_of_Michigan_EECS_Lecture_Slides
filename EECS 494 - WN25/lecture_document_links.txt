@@ -1,0 +1,22 @@
+EECS 494's lectures do not follow a single slide deck per class like most other courses. Instead, I've linked the documents here, although there's no guarantee that these links will stay valid.
+01 - https://docs.google.com/document/d/19HCWzcqS37dYsbEye7fKx8p2RbRRZ14um-4ZTlVLm90/edit?tab=t.0
+02 - https://docs.google.com/document/d/1qZaCGBM9WXux3vb3AOd6G3w0W786K7YPMfh-vTpx7dg/edit?tab=t.0
+03 - https://docs.google.com/document/d/1sMBBsrwSE0X69qPDEzb8dolQnYp4QQLvD-iY8PCqw7Y/edit?tab=t.0
+04 - https://docs.google.com/document/d/1GIfk4gohoSB07LoJhhumIw023aAo9Mc48aYuNODFAGk/edit?tab=t.0
+05 - https://docs.google.com/document/d/1B2FXDfiLume4Pz9DeKt-GaKgFChLnGd4o0XTF4e3-U8/edit?tab=t.0
+06 - https://docs.google.com/document/d/1-XnTNNkB2H2tR9yUZz0ZEGPEv7dzyvndbP0mvKtDXrE/edit?tab=t.0
+07 - https://docs.google.com/document/d/10KlO6_W80SWEGm1-dapFt64bEFL5Semn1RL94pZJNwY/edit?tab=t.0
+08 - https://docs.google.com/document/d/139tRhJRMzMAtWh3RkkjWVqnhAgk-gIKb1f3b9CYzF_I/edit?tab=t.0
+09 - https://docs.google.com/document/d/1p4Qxvc9745YtR3bBN6pzKNad7Tg8VWl52IzxeePSq2c/edit?tab=t.0
+10 - https://docs.google.com/document/d/1LaddaWB0k4-sPvuP3FKlhQjn4Nf9Tp7oJ3EDrxXD0Eg/edit?tab=t.0
+11 - https://docs.google.com/document/d/1Xclp7L6LTaFekflZGrt_ulcXXDvCJVZGuRO8arYjxtU/edit?tab=t.0
+12 - https://docs.google.com/document/d/1EWzUzYA83evsDZZOPxWnin7FwY2T1WyZW2pPrX83Rss/edit?tab=t.0
+13 - https://docs.google.com/document/d/1v37PnKUh3EMbi1xahwIFHP2ZywW08UWzQEnafwNobPY/edit?tab=t.0
+14 - https://docs.google.com/document/d/1ymB33A1AIbJamQk6L9aWolhGGdO3RMTHgvApIZ7geFc/edit?tab=t.0
+15 - https://docs.google.com/document/d/1GDtbWcrJ5xDB9SAoQYr-zYFKQnXDWP1L5THfZZjS9jg/edit?tab=t.0
+16 - https://docs.google.com/document/d/1EVMJGslStmwaBLvBjMv4mY5hokQa7Ih62ju8cV-0O-I/edit?tab=t.0
+17 - https://docs.google.com/document/d/1tHKwlug0-ofMlXP2xrPv3pC0h6Uryp7tNHURCiQ4JGo/edit?tab=t.0
+18 - https://docs.google.com/document/d/1bUPpjeyjpq3xICqxRA4gacXlx3XMxjMenYoE_6nqVLQ/edit?tab=t.0
+19 - https://docs.google.com/document/d/1d9CTVt72FCx0ueejT4KgoLKVFbAtNy3oW56kXL8KcDQ/edit?tab=t.0
+20 - https://docs.google.com/document/d/1naiI8aOjaDaiPMH6Ivmrt0_ObQvDidwvIJOHErKL1O8/edit?tab=t.0
+21 - https://docs.google.com/document/d/1lPacMoPQllk1bEtAYerK89u2lO50xO4BtTYUDQcSv5c/edit?tab=t.0
