@@ -4,7 +4,7 @@
 
 This repository contains the lecture slides and some other course materials for some EECS courses at the University of Michigan, plus some non-EECS courses that I thought taught some useful information.
 
-The semester listed next to each directory name is the semester that the slides/resources are from. Most, if not all, of the lecture slides should be present for each given course, but this repository is somewhat opinionated- I have chosen which courses' resources are in this repository, and which lecture slides are in this repository. Some lecture slides are missing because I could not find them (though I usually inserted a best-effort replacement in this case), the course didn't hold a traditional lecture for certain class sessions (such as bakeoffs in EECS 493, guest lectures in EECS 481, or playtesting sessions in EECS 493), or I omitted them because I thought the content was fairly useless (especially apparent for EECS 493 and EECS 481). I have also chosen names for each of the lecture slide decks that will hopefully help you quickly find the topics you're looking for.
+The semester listed next to each directory name is the semester that the slides/resources are from. Most, if not all, of the lecture slides should be present for each given course, but this repository is somewhat opinionated- I have chosen which courses' resources are in this repository, and which lecture slides are in this repository. Some lecture slides are missing because I could not find them (though I usually inserted a best-effort replacement in this case), the course didn't hold a traditional lecture for certain class sessions (such as bakeoffs in EECS 493, guest lectures in EECS 481, or playtesting sessions in EECS 493), or I omitted them because I thought the content was fairly useless (such as a lecture about microaggressions in EECS 496). I have also chosen names for each of the lecture slide decks that will hopefully help you quickly find the topics you're looking for.
 
 For some courses, I have included the course's notes written by the course staff or other course-related material, usually because I thought those resources were really good. I have added some of my own written notes to this too, which are denoted with "My ", but the quality and accuracy of the information in those is not guaranteed.
 
@@ -94,6 +94,8 @@ Note that links are subject to change and may no longer be accessible or valid.
 - **EECS 494** (WN25)
     - Slides (sort of) - Austin Yarger's documents at course schedule on Canvas
     - Note - All of the lectures for this course are uploaded to YouTube at https://www.youtube.com/@austinyarger9170 !
+- **EECS 496** (FA24)
+    - Slides - Various lecturers' slides at course's Canvas Files
 - **IOE 373** (FA23)
     - Slides - Luis Guzman's slides at course's Canvas Files
 - **STATS 315** (WN24)
