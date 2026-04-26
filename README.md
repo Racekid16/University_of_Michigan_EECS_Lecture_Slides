@@ -96,6 +96,8 @@ Note that links are subject to change and may no longer be accessible or valid.
     - Note - All of the lectures for this course are uploaded to YouTube at https://www.youtube.com/@austinyarger9170 !
 - **EECS 496** (FA24)
     - Slides - Various lecturers' slides at course's Canvas Files
+- **EECS 498 (APSD)** (WN26)
+    - Slides- James Juett's slides at https://drive.google.com/drive/folders/1HImXWsfFFigHpcL2qNtcxnXq2QWWWjIO
 - **IOE 373** (FA23)
     - Slides - Luis Guzman's slides at course's Canvas Files
 - **STATS 315** (WN24)
