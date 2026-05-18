@@ -64,6 +64,9 @@ Note that links are subject to change and may no longer be accessible or valid.
     - Slides - Marcus Darden's slides at course's Canvas Files
     - IA Notes - Andrew Zhou's IA Notes at https://ajzhou.gitlab.io/eecs281/notes/
     - Note - All University of Michigan students can access lecture videos at https://eecs281staff.github.io/eecs281.org/ ! Also note that the IA Notes file is massive- around 230 MB! It is the single reason why I had to use Git LFS for this repository. Normally, I wouldn't have bothered doing all that and would've instead simply excluded it, but the material it contains is too good to not put here.
+- **EECS 298 (3DTAA)** (FA25)
+    - Slides (sort of) - Austin Yarger's documents at https://docs.google.com/spreadsheets/d/1leqXEIUye2A3vf-jKfkdRxm7UTlC5uq4XyTrBquI_qY/edit
+    - Note - All of the lectures for this course are uploaded to YouTube at https://www.youtube.com/@austinyarger9170 !
 - **EECS 370** (WN23) 
     - Slides - Jonathan Beaumont's slides at https://drive.google.com/drive/folders/1ylbXTnGTGtJ2gscbgfE0tXns7ZncRn4b
 - **EECS 376** (WN23)

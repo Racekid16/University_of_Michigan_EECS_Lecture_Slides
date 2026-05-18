@@ -1,4 +1,4 @@
-EECS 494's lectures do not follow a single slide deck per class like most other courses. Instead, I've linked the documents here, although there's no guarantee that these links will stay valid.
+EECS 494's lectures do not follow a single slide deck per lecture like most other courses. Instead, I've linked the documents here, although there's no guarantee that these links will stay valid.
 01 - https://docs.google.com/document/d/19HCWzcqS37dYsbEye7fKx8p2RbRRZ14um-4ZTlVLm90/edit?tab=t.0
 02 - https://docs.google.com/document/d/1qZaCGBM9WXux3vb3AOd6G3w0W786K7YPMfh-vTpx7dg/edit?tab=t.0
 03 - https://docs.google.com/document/d/1sMBBsrwSE0X69qPDEzb8dolQnYp4QQLvD-iY8PCqw7Y/edit?tab=t.0
